@@ -1,0 +1,33 @@
+body {
+    background: radial-gradient(circle, rgb(179, 174, 174), rgb(226, 181, 181));
+    text-align: center;
+}
+
+h1 {
+    color: #131212;
+    font-family: "Indie Flower", cursive;
+    font-size: 75px;
+}
+p {
+    font-size: 35px;
+}
+input {
+    padding: 5px;
+    font-size: 20px;
+}
+
+button {
+    padding: 8px 12px;
+    background-color: #555050;
+    color: white;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#mensaje {
+    color: #333;
+    font-family: "Indie Flower", cursive;
+    font-size: 35px;
+    margin-top: 20px;
+}
